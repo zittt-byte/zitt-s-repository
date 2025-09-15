@@ -1,2 +1,2 @@
-# zitt-s-repository
+# zitt's-repository
 practice
