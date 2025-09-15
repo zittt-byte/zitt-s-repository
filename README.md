@@ -1,2 +1,3 @@
 # zittt's-repository
-practice
+# Hello everyone
+my first repository for preparing the pscp final project
